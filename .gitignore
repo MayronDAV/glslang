@@ -23,3 +23,5 @@ tools/
 # Random OS stuff
 .DS_Store
 ._*
+glslang.vcxproj
+glslang.vcxproj.filters
