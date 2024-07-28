@@ -25,3 +25,4 @@ tools/
 ._*
 glslang.vcxproj
 glslang.vcxproj.filters
+glslang.vcxproj.user
